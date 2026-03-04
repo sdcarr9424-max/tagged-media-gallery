@@ -45,28 +45,3 @@ Override settings:
 GPLv2 or later.
 
 ---
-
-## Screenshots
-
-### Settings
-![Settings](screenshot-1.png)
-
-### Settings
-![Settings](assets/screenshot-2.png)
-
-### Settings
-![Settings](assets/screenshot-3.png)
-
-### Settings
-![Settings](assets/screenshot-4.png)
-
-### Settings
-![Settings](assets/screenshot-5.png)
-
-### Slider view
-![Slider View](assets/screenshot-6.png)
-
-### Grid View
-![Grid View](assets/screenshot-7.png)
-
----
