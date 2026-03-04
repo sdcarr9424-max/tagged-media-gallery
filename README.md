@@ -2,7 +2,17 @@
 
 A flexible tag-based image grid and slider for WordPress.
 
-Originally built for a nonprofit art gallery.
+---
+
+## 💛 Built for a Nonprofit
+
+Tagged Media Gallery was created for the Gateway Art Gallery to provide flexible, professional image presentation without expensive gallery systems.
+
+If you find it useful, consider supporting the project:
+
+**[Donate to support development](https://www.paypal.com/donate/?hosted_button_id=US7CYBDSUEQDU)**
+
+---
 
 ## Features
 
