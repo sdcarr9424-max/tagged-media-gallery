@@ -49,7 +49,7 @@ GPLv2 or later.
 ## Screenshots
 
 ### Settings
-![Settings](assets/screenshot-1.png)
+![Settings](screenshot-1.png)
 
 ### Settings
 ![Settings](assets/screenshot-2.png)
