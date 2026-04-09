@@ -1,4 +1,4 @@
-# Tagged Media Gallery
+# WHS Tag-Based Media Gallery
 
 A flexible tag-based image grid and slider for WordPress.
 
@@ -6,7 +6,7 @@ A flexible tag-based image grid and slider for WordPress.
 
 ## 💛 Built for a Nonprofit
 
-Tagged Media Gallery was created for the Gateway Art Gallery to provide flexible, professional image presentation without expensive gallery systems.
+WHS Tag-Based Media Gallery was created for the Gateway Art Gallery to provide flexible, professional image presentation without expensive gallery systems.
 
 If you find it useful, consider supporting the project:
 
